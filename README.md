@@ -5,6 +5,7 @@ To use this theme, add `THEME_NAME` and `THEME_REPO` arguments to your `make` co
 $ make THEME_NAME=mario_light THEME_REPO=https://github.com/mickbot-92/Mario-Theme
 ```
 
+
 # Credit
 
 * Omega contributors
